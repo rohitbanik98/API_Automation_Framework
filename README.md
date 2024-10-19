@@ -1,5 +1,6 @@
 Python API Automation Framework
 
+![img_1.png](img_1.png)
 
 Tech Stack
 - Python 3.12
